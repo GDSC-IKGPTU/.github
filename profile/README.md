@@ -83,12 +83,14 @@ Discover the diverse domains within GDSC IKGPTU:
 
 ⭐ No, you don't need to pay anything to join our community. Our community is absolutely free, and we welcome you all to join us and be an active part of the community. 🥳🥳
 
+Visit our [website](https://gdsc-ikgptu.github.io/) to learn more about us and stay updated with our activities.
+
 ## How to Join GDSC IKGPTU
 
 <div align="center">
     
 <h2 align="center">⭐🔗 Connect with Us </h2>
-    
+
 <p align="center">
   <a href="https://www.instagram.com/gdscikgptu/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -96,13 +98,17 @@ Discover the diverse domains within GDSC IKGPTU:
   <a href="https://x.com/gdscikgptu" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  <a href="https://gdsc-ikgptu.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-ffd500?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website">
+  </a>
   <a href="https://gdsc.community.dev/ik-gujral-punjab-technical-university-jalandhar-india/" target="_blank">
-    <img src="https://img.shields.io/badge/-GDSC%20Community-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDSC Community">
+    <img src="https://img.shields.io/badge/-GDSC%20Community-34A853?style=for-the-badge&logo=google&logoColor=white" alt="GDSC Community">
   </a>
   <a href="https://github.com/GDSC-IKGPTU" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
 
 ![GDSC Footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 </div>
