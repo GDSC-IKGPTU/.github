@@ -89,10 +89,20 @@ Discover the diverse domains within GDSC IKGPTU:
     
 <h2 align="center">⭐🔗 Connect with Us </h2>
     
-[<img alt="GDSC IKGPTU | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/gdscikgptu/)
-[<img alt="GDSC IKGPTU | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/gdscikgptu)
-[<img alt="GDSC IKGPTU | Community" width="100px" src="https://img.shields.io/badge/-Community-000000?logo=google&Color=0A66C2&style=flat-square" />](https://gdsc.community.dev/ik-gujral-punjab-technical-university-jalandhar-india/)
-[<img alt="GDSC IKGPTU | GitHub" width="92px" src="https://img.shields.io/badge/-GitHub-000000?logo=github&Color=0A66C2&style=flat-square" />](https://github.com/GDSC-IKGPTU)
+<p align="center">
+  <a href="https://www.instagram.com/gdscikgptu/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://x.com/gdscikgptu" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://gdsc.community.dev/ik-gujral-punjab-technical-university-jalandhar-india/" target="_blank">
+    <img src="https://img.shields.io/badge/-GDSC%20Community-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDSC Community">
+  </a>
+  <a href="https://github.com/GDSC-IKGPTU" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ![GDSC Footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 </div>
